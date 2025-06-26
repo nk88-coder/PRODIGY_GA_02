@@ -26,5 +26,5 @@ image.save("output.png")
 # Display using matplotlib
 plt.imshow(image)
 plt.axis("off")
-plt.title("Your Waifu ❤️")
+plt.title("Your gf")
 plt.show()
